@@ -29,6 +29,7 @@ export default function camerahelper(videodom,readyfunction)
         {name:"QXGA", width:2048, height:1536},
         {name:"QSXGA", width:2560, height:2048},
         {name:"QUXGA", width:3200, height:2400},
+        {name: "Ultra HD", width: 3840, height: 2160 },
         {name:"DCI 4K", width:4096, height:2160},
         {name:"HXGA", width:4096, height:3072},
         {name:"UW5K", width:5120, height:2160},
